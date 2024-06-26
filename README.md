@@ -10,8 +10,8 @@ Access the demo website [here](https://vite-chat-web.vercel.app/)<br><br>
 
 ## Website Preview
 
-<img src="https://github.com/zijian99/react_chat_web/assets/92379986/ce3b8b96-7366-4374-925e-39091a6c1480" height="350" width="500" alt="Original Input">
-<img src="https://github.com/zijian99/react_chat_web/assets/92379986/3ad5c7d3-555d-4cee-9a96-1bfef5047064" height="350" width="500" alt="Original Input"><br>
+<img src="https://github.com/zijian99/react_chat_web/assets/92379986/3edf0a61-82ee-4a45-aa0f-4aea2429f093" height="350" width="500" alt="Original Input">
+<img src="https://github.com/zijian99/react_chat_web/assets/92379986/ea562e11-51c2-4d9e-be2a-6f24a6ef7886" height="350" width="500" alt="Original Input"><br>
 
 
 
@@ -52,6 +52,5 @@ npm run dev
 > ```
 
 <br><br>
-<img src="https://github.com/zijian99/react_chat_web/assets/92379986/7f78fd26-46b0-40d1-b8cb-f6179ea27115" width="170" height="170">
-
+<img src="https://github.com/zijian99/react_chat_web/assets/92379986/9f2c6eed-9cd8-4377-ac62-136711005675" width="170" height="170">
 
